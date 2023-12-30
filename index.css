@@ -1,19 +1,10 @@
-body {
-    background-color: #F9E2D9;;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-button {
-      display:inline-block;
-      border-radius: 30px;
-      background: #CCCB00;
-      border: none;
-
-      color: #404040;
-      font-family: Georgia;
-      font-style: italic;
-      line-height: normal;
+html {
+    font-size: 12;
+    font-family: "Arial";
 }
-
-.container {
-    text-align:center;
-} 
