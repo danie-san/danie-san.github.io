@@ -103,7 +103,7 @@ nav ul li a:hover::after {
 .subtitle {
     font-size: 60px;
     font-weight: 600;
-    color: #FFAE8A;
+    color: #CAB1F2;
 }
 
 .tab-title {
@@ -141,6 +141,15 @@ nav ul li a:hover::after {
 
 .tab-contents ul li span {
     font-size: 14px;
+    color: black;
+}
+
+#experience span {
+    color:#FFAE8A;
+}
+
+#education span {
+    color:#FFAE8A;
 }
 
 .tab-contents {
