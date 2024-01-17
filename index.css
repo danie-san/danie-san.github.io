@@ -160,3 +160,62 @@ nav ul li a:hover::after {
     display: block;
 }
 
+#portfolio {
+    padding: 50px 0;
+}
+
+.project-list {
+    margin-top: 50px;
+    display: flex;
+}
+
+.project-list ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+.project-list h3 {
+    color: #CCCB00;
+}
+
+#coding span {
+    color:#FFAE8A;
+}
+
+#design span {
+    color:#FFAE8A;
+}
+
+/* CONTACT */
+
+.contact-left {
+    flex-basis: 35%;
+}
+
+.contact-right {
+    flex-basis: 60%;
+}
+
+.contact-left p {
+    margin-top: 30px;
+}
+
+.contact-left p i{
+    color: #FFAE8A;
+    margin-right: 15px;
+    font-size: 25px;
+}
+
+.social-icons {
+    margin-top: 30px;
+}
+
+.social-icons a {
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color: #CCCB00;
+    display: inline-block;
+}
+

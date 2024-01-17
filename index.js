@@ -14,3 +14,4 @@ function openTab(tabName) {
     event.currentTarget.classList.add("active-link");
     document.getElementById(tabName).classList.add("active-tab");
 }
+
