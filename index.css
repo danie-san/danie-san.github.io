@@ -166,13 +166,13 @@ nav ul li a:hover::after {
 
 .project-list {
     margin-top: 50px;
-    display: flex;
+    display: inline-grid;
 }
 
 .project-list ul li {
     display: inline-block;
     list-style: none;
-    margin: 10px 20px;
+    margin: 20px 10px;
 }
 
 .project-list h3 {
