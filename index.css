@@ -187,6 +187,10 @@ nav ul li a:hover::after {
     color:#FFAE8A;
 }
 
+#design a {
+    color: black;
+}
+
 /* CONTACT */
 
 .contact-left {
@@ -215,7 +219,33 @@ nav ul li a:hover::after {
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color: #CCCB00;
+    color: #black;
     display: inline-block;
+    transition: transform 0.2s;
 }
 
+.social-icons a:hover {
+    color: #CCCB00;
+    transform: translateY(-5px);
+}
+
+.btn {
+    display: inline-block;
+    background: #CCCB00;
+}
+
+.contact-right form {
+    width: 100%;
+}
+
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #e2e1d5;
+    padding: 15px;
+    margin: 15px 0;
+    color: #black;
+    font-size: 18px;
+    border-radius: 6px;
+}
