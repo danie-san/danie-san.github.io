@@ -205,33 +205,35 @@ nav ul li a:hover::after {
     margin-top: 30px;
 }
 
-.contact-left p i{
-    color: #FFAE8A;
-    margin-right: 15px;
-    font-size: 25px;
-}
 
 .social-icons {
     margin-top: 30px;
 }
 
 .social-icons a {
-    text-decoration: none;
-    font-size: 30px;
     margin-right: 15px;
-    color: #black;
     display: inline-block;
     transition: transform 0.2s;
 }
 
 .social-icons a:hover {
-    color: #CCCB00;
     transform: translateY(-5px);
 }
 
-.btn {
+.social-btn {
     display: inline-block;
-    background: #CCCB00;
+    background-color: #e2e1d5;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    padding: 12px 28px;
+    transition-duration: 0.2s;
+    color: black;
+}
+
+.social-btn:hover{
+    background-color: #CCCB00;
+    color: white;
 }
 
 .contact-right form {
@@ -245,7 +247,7 @@ form input, form textarea{
     background: #e2e1d5;
     padding: 15px;
     margin: 15px 0;
-    color: #black;
+    color: black;
     font-size: 18px;
     border-radius: 6px;
 }
