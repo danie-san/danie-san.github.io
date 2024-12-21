@@ -1,0 +1,59 @@
+/***** Font Imports *****/
+
+/* Catamaran */
+@font-face {
+    font-family: 'Catamaran';
+    src: url('../fonts/Catamaran-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Oliver */
+@font-face {
+    font-family: 'Oliver';
+    src: url('../fonts/Oliver-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Work Sans */
+@font-face {
+    font-family: 'WorkSans';
+    src: url('../fonts/WorkSans-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/***** Variables *****/
+:root {
+    --color-base: #FFEEF4;
+    --color-yellow: #F1DD97;
+    --color-blue: #CCCDEA;
+    --color-green: #BCD0BE;
+    --color-red: #FFC9BD;
+    --color-white: #FFFFFF;
+    --color-black: #474853;
+
+    --font-oliver: 'Oliver', sans-serif;
+    --font-catamaran: 'Catamaran', sans-serif;
+    --font-work: 'WorkSans', sans-serif;
+
+    --font-weight-regular: 400;
+
+    --font-32: 2rem;
+    --font-38: 2.375rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: var(--color-base);
+
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
