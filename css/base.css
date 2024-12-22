@@ -52,6 +52,7 @@
 html,
 body {
     background-color: var(--color-base);
+    color: var(--color-black);
 
     margin: 0;
     padding: 0;
@@ -69,10 +70,17 @@ body {
     grid-template-rows: repeat(10, .5fr);
     gap: 1rem;
     padding: 2rem;
+
+    color: var(--color-black);
 }
 
 .item {
     border-radius: 25px;
+
+    a {
+        text-decoration: none;
+        color: var(--color-black);
+    }
 }
 
 .header-subpages {
