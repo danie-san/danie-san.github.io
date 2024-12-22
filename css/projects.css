@@ -1,0 +1,34 @@
+.projects-blurb {
+    background-color: var(--color-yellow);
+    grid-area: 2 / 2 / 6 / 11;
+
+    padding: 2rem;
+    font-family: var(--font-work);
+    font-size: var(--font-24);
+}
+
+.programming-button {
+    background-color: var(--color-green);
+    grid-area: 6 / 2 / 11 / 7;
+
+    padding: 2rem;
+    font-family: var(--font-oliver);
+    font-size: var(--font-32);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.design-button {
+    background-color: var(--color-blue);
+    grid-area: 6 / 7 / 11 / 11;
+
+    padding: 2rem;
+    font-family: var(--font-oliver);
+    font-size: var(--font-32);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

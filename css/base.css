@@ -49,7 +49,8 @@
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     background-color: var(--color-base);
 
     margin: 0;
@@ -77,4 +78,21 @@ body {
 .header-subpages {
     background-color: var(--color-red);
     grid-area: 1 / 1 / 2 / 11;
+}
+
+.sidebar {
+    background-color: var(--color-white);
+    grid-area: 2 / 1 / 11 / 2;
+    
+    display: flex;
+    align-items: center;
+}
+
+.vertical-text {
+    transform: rotate(-90deg);
+    white-space: nowrap;
+
+    font-size: var(--font-24);
+    font-family: var(--font-oliver);
+    color: var(--color-text);
 }
