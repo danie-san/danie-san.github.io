@@ -57,4 +57,24 @@ html, body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    display: grid;
+    grid-template-columns: repeat(10, .5fr);
+    grid-template-rows: repeat(10, .5fr);
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.item {
+    border-radius: 25px;
+}
+
+.header-subpages {
+    background-color: var(--color-red);
+    grid-area: 1 / 1 / 2 / 11;
 }
