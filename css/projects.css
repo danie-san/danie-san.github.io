@@ -1,3 +1,4 @@
+/***** General Project Page *****/
 .projects-blurb {
     background-color: var(--color-yellow);
     grid-area: 2 / 2 / 6 / 11;
@@ -32,4 +33,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/***** Programming Page *****/
+.sidebar-coding {
+    background-color: var(--color-green);
+}
+
+.main-coding {
+    background-color: var(--color-blue);
+    padding: 2rem;
 }

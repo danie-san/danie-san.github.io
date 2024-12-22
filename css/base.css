@@ -100,7 +100,16 @@ body {
     transform: rotate(-90deg);
     white-space: nowrap;
 
-    font-size: var(--font-24);
+    font-size: var(--font-32);
     font-family: var(--font-oliver);
     color: var(--color-text);
+}
+
+.main {
+    grid-area: 2 / 2 / 11 / 11;
+}
+
+.main-title {
+    font-family: var(--font-oliver);
+    font-size: var(--font-24);
 }
