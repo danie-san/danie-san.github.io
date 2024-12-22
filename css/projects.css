@@ -25,10 +25,6 @@
     font-family: var(--font-oliver);
     font-size: var(--font-32);
     text-decoration: none;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .project-button {

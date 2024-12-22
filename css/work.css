@@ -1,0 +1,8 @@
+.sidebar-coding {
+    background-color: var(--color-yellow);
+}
+
+.main-coding {
+    background-color: var(--color-blue);
+    padding: 2rem;
+}
