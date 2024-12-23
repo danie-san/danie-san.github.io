@@ -108,6 +108,7 @@ body {
 
 .main {
     grid-area: 2 / 2 / 11 / 11;
+    overflow: auto;
     scroll-behavior: auto;
 }
 
