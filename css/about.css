@@ -1,0 +1,23 @@
+.sidebar-about {
+    background-color: var(--color-blue);
+}
+
+.about-text-1 {
+    background-color: var(--color-white);
+    font-family: var(--font-catamaran);
+    padding: 2rem;
+
+    grid-area: 2 / 2 / 7 / 8;
+}
+
+.about-photo-1 {
+    grid-area: 2 / 8 / 7 / 11;
+}
+
+.about-text-2 {
+    background-color: var(--color-green);
+    font-family: var(--font-catamaran);
+    padding: 2rem;
+
+    grid-area: 7 / 5 / 11 / 11;
+}

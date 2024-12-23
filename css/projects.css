@@ -48,3 +48,12 @@
     background-color: var(--color-blue);
     padding: 2rem;
 }
+
+.sidebar-design {
+    background-color: var(--color-yellow);
+}
+
+.main-design {
+    background-color: var(--color-green);
+    padding: 2rem;
+}
