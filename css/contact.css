@@ -1,0 +1,8 @@
+.sidebar-contact {
+    background-color: var(--color-green);
+}
+
+.main-contact {
+    background-color: var(--color-blue);
+    padding: 2rem;
+}
