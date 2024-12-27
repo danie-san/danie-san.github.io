@@ -84,6 +84,7 @@ body {
     }
 }
 
+
 .header-subpages {
     background-color: var(--color-red);
     grid-area: 1 / 1 / 2 / 11;

@@ -17,6 +17,10 @@
     font-size: var(--font-32);
 }
 
+.project-button:hover {
+    color: var(--color-white);
+}
+
 .design-button {
     background-color: var(--color-blue);
     grid-area: 6 / 7 / 11 / 11;
