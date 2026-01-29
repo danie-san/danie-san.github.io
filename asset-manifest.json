@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YOUR-REPO-NAME/static/css/main.899c3146.css",
+    "main.js": "/YOUR-REPO-NAME/static/js/main.5b742497.js",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/YOUR-REPO-NAME/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/Catamaran-VariableFont_wght.ttf": "/YOUR-REPO-NAME/static/media/Catamaran-VariableFont_wght.ce61f61a36982ac60cc1.ttf",
+    "static/media/Oliver-Regular.ttf": "/YOUR-REPO-NAME/static/media/Oliver-Regular.01f638784569ede86f7c.ttf",
+    "index.html": "/YOUR-REPO-NAME/index.html",
+    "main.899c3146.css.map": "/YOUR-REPO-NAME/static/css/main.899c3146.css.map",
+    "main.5b742497.js.map": "/YOUR-REPO-NAME/static/js/main.5b742497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.899c3146.css",
+    "static/js/main.5b742497.js"
+  ]
+}
