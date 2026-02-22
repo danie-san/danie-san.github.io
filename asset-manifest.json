@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/YOUR-REPO-NAME/static/css/main.899c3146.css",
-    "main.js": "/YOUR-REPO-NAME/static/js/main.5b742497.js",
-    "static/media/WorkSans-VariableFont_wght.ttf": "/YOUR-REPO-NAME/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
-    "static/media/Catamaran-VariableFont_wght.ttf": "/YOUR-REPO-NAME/static/media/Catamaran-VariableFont_wght.ce61f61a36982ac60cc1.ttf",
-    "static/media/Oliver-Regular.ttf": "/YOUR-REPO-NAME/static/media/Oliver-Regular.01f638784569ede86f7c.ttf",
-    "index.html": "/YOUR-REPO-NAME/index.html",
-    "main.899c3146.css.map": "/YOUR-REPO-NAME/static/css/main.899c3146.css.map",
-    "main.5b742497.js.map": "/YOUR-REPO-NAME/static/js/main.5b742497.js.map"
+    "main.css": "/static/css/main.27d2f3ae.css",
+    "main.js": "/static/js/main.1ad919b9.js",
+    "static/media/IMG_8199.jpeg": "/static/media/IMG_8199.3020aeab1912e277e9de.jpeg",
+    "static/media/IMG_3256.jpeg": "/static/media/IMG_3256.de602ff84ee3062ecaf8.jpeg",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/Catamaran-VariableFont_wght.ttf": "/static/media/Catamaran-VariableFont_wght.ce61f61a36982ac60cc1.ttf",
+    "static/media/santos_danielle_resume.pdf": "/static/media/santos_danielle_resume.80019b657cc7e228bd2c.pdf",
+    "static/media/Oliver-Regular.ttf": "/static/media/Oliver-Regular.01f638784569ede86f7c.ttf",
+    "index.html": "/index.html",
+    "main.27d2f3ae.css.map": "/static/css/main.27d2f3ae.css.map",
+    "main.1ad919b9.js.map": "/static/js/main.1ad919b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.899c3146.css",
-    "static/js/main.5b742497.js"
+    "static/css/main.27d2f3ae.css",
+    "static/js/main.1ad919b9.js"
   ]
 }
