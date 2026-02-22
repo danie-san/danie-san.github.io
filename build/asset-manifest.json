@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea4b2433.css",
+    "main.js": "/static/js/main.88bf72e5.js",
+    "static/media/IMG_8199.jpeg": "/static/media/IMG_8199.3020aeab1912e277e9de.jpeg",
+    "static/media/IMG_3256.jpeg": "/static/media/IMG_3256.de602ff84ee3062ecaf8.jpeg",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/Catamaran-VariableFont_wght.ttf": "/static/media/Catamaran-VariableFont_wght.ce61f61a36982ac60cc1.ttf",
+    "static/media/santos_danielle_resume.pdf": "/static/media/santos_danielle_resume.80019b657cc7e228bd2c.pdf",
+    "static/media/Oliver-Regular.ttf": "/static/media/Oliver-Regular.01f638784569ede86f7c.ttf",
+    "index.html": "/index.html",
+    "main.ea4b2433.css.map": "/static/css/main.ea4b2433.css.map",
+    "main.88bf72e5.js.map": "/static/js/main.88bf72e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4b2433.css",
+    "static/js/main.88bf72e5.js"
+  ]
+}

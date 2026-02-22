@@ -1,0 +1,43 @@
+.project-detail {
+  padding: 3rem;
+}
+
+.project-detail h1 {
+  font-size: var(--font-32);
+  font-family: var(--font-oliver);
+  margin-bottom: 1rem;
+  color: var(--color-black);
+}
+
+.project-description-detail {
+  font-size: var(--font-16);
+  font-family: var(--font-catamaran);
+  color: var(--color-black);
+  margin-bottom: 0.5rem;
+}
+
+.project-date-detail {
+  color: var(--color-black);
+  font-family: var(--font-catamaran);
+  font-size: var(--font-16);
+  margin-bottom: 1.5rem;
+  opacity: 0.7;
+}
+
+.project-details {
+  line-height: 1.8;
+  color: var(--color-black);
+  font-family: var(--font-catamaran);
+  font-size: var(--font-16);
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .project-detail {
+    padding: 2rem 1.5rem;
+  }
+
+  .project-detail h1 {
+    font-size: var(--font-24);
+  }
+}
