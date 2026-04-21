@@ -13,7 +13,7 @@
 }
 
 .modal-content {
-  background-color: var(--color-base);
+  background-color: var(--color-yellow);
   border-radius: 25px;
   max-width: 1000px;
   max-height: 90vh;

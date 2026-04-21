@@ -26,13 +26,13 @@
 
 /***** Variables *****/
 :root {
-  --color-base: #ffeef4;
-  --color-yellow: #f1dd97;
-  --color-blue: #cccdea;
-  --color-green: #bcd0be;
-  --color-red: #ffc9bd;
-  --color-white: #ffffff;
-  --color-black: #474853;
+  --color-base: #647a5a;
+  --color-yellow: #d7cbb2;
+  --color-light-green: #8daf9b;
+  --color-green: #b6b791;
+  --color-blue: #afccd1;
+  --color-white: #e4e4e4;
+  --color-black: #1b1a1a;
 
   --font-oliver: "Oliver", sans-serif;
   --font-catamaran: "Catamaran", sans-serif;

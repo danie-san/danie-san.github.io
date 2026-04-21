@@ -17,7 +17,7 @@
 }
 
 .header {
-  background-color: var(--color-red);
+  background-color: var(--color-blue);
   grid-area: 1 / 4 / 2 / 11;
 }
 
@@ -81,7 +81,7 @@
 }
 
 .intro {
-  background-color: var(--color-blue);
+  background-color: var(--color-light-green);
   grid-area: 2 / 4 / 8 / 7;
   padding: 2rem;
   font-family: var(--font-work);
@@ -107,7 +107,7 @@
 }
 
 .contact {
-  background-color: var(--color-red);
+  background-color: var(--color-blue);
   grid-area: 8 / 4 / 11 / 8;
   padding: 2rem;
   font-family: var(--font-oliver);
@@ -116,7 +116,7 @@
 }
 
 .about {
-  background-color: var(--color-blue);
+  background-color: var(--color-light-green);
   grid-area: 8 / 8 / 11 / 11;
   padding: 2rem;
   font-family: var(--font-oliver);

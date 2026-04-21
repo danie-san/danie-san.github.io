@@ -118,7 +118,7 @@ nav ul li:first-child a {
 
 nav ul li a:hover,
 nav ul li button:hover {
-  color: white;
+  color: var(--color-base);
 }
 
 @media (max-width: 768px) {

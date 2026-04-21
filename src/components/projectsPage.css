@@ -9,7 +9,7 @@
 }
 
 .projects-container .header {
-  background-color: var(--color-red);
+  background-color: var(--color-blue);
   grid-area: 1 / 1 / 2 / 11;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .project-card {
-  background-color: var(--color-blue);
+  background-color: var(--color-light-green);
   padding: 1.5rem;
   border-radius: 25px;
   cursor: pointer;
