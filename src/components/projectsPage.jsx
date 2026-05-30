@@ -121,8 +121,7 @@ function ProjectsPage() {
         most of what you'll find here are projects I built completely on my own.
         Each one says something about how I think: I like digging into hard
         problems, I care about how things look and feel, and honestly, I just
-        really enjoy the process of making stuff, whether it's for class, for
-        fun, or for no reason other than curiosity.
+        really enjoy the process of making stuff.
       </div>
 
       <div className="projects-grid">

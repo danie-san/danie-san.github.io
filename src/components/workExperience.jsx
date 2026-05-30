@@ -17,7 +17,7 @@ function WorkExperience() {
         <ul className="main-list">
           <li>
             Software Engineer,{" "}
-            <span className="italicize">September 2025 – Present</span>
+            <span className="italicize">September 2025 – March 2026</span>
           </li>
         </ul>
 

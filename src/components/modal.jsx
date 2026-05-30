@@ -10,7 +10,6 @@ function Modal({ isOpen, onClose, children, tall }) {
     };
 
     if (isOpen) {
-      document.addEventListener("keydown", handleEscape);
       document.body.style.overflow = "hidden";
     }
 
